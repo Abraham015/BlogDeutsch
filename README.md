@@ -1,2 +1,2 @@
 # BlogDeutsch
-Blog para básico 5 de alemán
+Blog para basico 5 aleman
